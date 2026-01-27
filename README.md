@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Graduating Computer Science<br>- Full-stack developer<br>- Technical Support by the State University of Maringá (UEM)<br>- 2 years in the professional market</p>
+<p align="left">- Graduating Computer Science<br>- Full-stack developer<br>- Technical Support by the State University of Maringá (UEM)<br>- 3 years in the professional market</p>
 
 ###
 
