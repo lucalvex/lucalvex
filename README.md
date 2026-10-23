@@ -38,8 +38,8 @@
 ## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucalvex/"><img src="https://img.shields.io/badge/LinkedIn-lucalvex-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lucalvex25@gmail.com"><img src="https://img.shields.io/badge/Email-lucalvex25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+   <a href="https://www.linkedin.com/in/lucalvex/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:lucalvex25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/lucalvex/lucalvex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
