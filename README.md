@@ -9,7 +9,7 @@
 
 - Front-end developer at **CRMall & Prizor**, building a retail SaaS with Angular, TypeScript and Tailwind CSS
 - Project manager at **Main**, a software junior enterprise, coordinating dev teams with Scrumban
-- Computer Science student at the State University of Maringá (UEM), graduating in Dec 2026
+- Computer Science student at the State University of Maringá (UEM), graduating in Dec 2027
 - Open to **junior front-end, full stack and mobile** roles
 
 ## Tech stack
